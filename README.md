@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hello, I'm Jose and I like to play videogames.
